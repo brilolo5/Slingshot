@@ -1,5 +1,5 @@
 # Slingshot
-Slingshot converts the Android version of ''Rovio Classics: Angry Birds'' into a game that runs on Windows.
+Slingshot converts the Android version of **Rovio Classics: Angry Birds** into a game that runs on Windows.
 
 ## Installation
 1. Get an APK of the Android version (x86_64 architecture) of Rovio Classics: Angry Birds. This could be acquired if you bought the game when it was available on the Google Play Store. Only tested on the latest version released, 1.3.1519.
