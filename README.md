@@ -12,4 +12,4 @@ Slingshot converts the Android version of ''Rovio Classics: Angry Birds'' into a
 Melon Loader is installed by default and includes patches (`GamePatches.dll`) that apply proper mouse detection, as well as fixed bugs. Don't delete it unless you know what you're doing, the game won't get past the loading screen.
 
 ## Credits
-* **[https://gitlab.com/adokova1111/project-dream-release Beatz]**, for creating _Project Dream_, a tool that inspired me to develop my own.
+* [Project Dream](https://gitlab.com/adokova1111/project-dream-release) by Beatz, a tool that inspired me to develop my own.
